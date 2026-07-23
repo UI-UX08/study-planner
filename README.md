@@ -37,7 +37,7 @@ The application is intended for:
 | Michael N. Kariuki  | C027-01-0896/2024 
 | Jason K. otula      | C027-01-0824/2024 
 | Sylvia L. Kanini    | C027-01-0863/2024 
-| Member 5            | C027-01-____/2024
+| Mitchelle Njeri     | C027-01-2287/2024
 | Member 6 		      | C027-01-____/2024
 | Member 7 		      | C027-01-____/2024
 | Member 8 		      | C027-01-____/2024
