@@ -38,7 +38,7 @@ The application is intended for:
 | Jason K. otula      | C027-01-0824/2024 
 | Sylvia K. Lwaya     | C027-01-0863/2024 
 | Mitchelle Njeri     | C027-01-2287/2024
-| Paul Oenga          | C027-01-____/2024
+| Paul Oenga          | C027-01-0918/2024
 | Member 7 		      | C027-01-____/2024
 | Member 8 		      | C027-01-____/2024
 | Member 9		      | C027-01-____/2024
