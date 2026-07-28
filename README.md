@@ -40,7 +40,7 @@ The application is intended for:
 | Mitchelle Njeri     | C027-01-2287/2024
 | Paul Oenga          | C027-01-0918/2024
 | Gloria Mburu 		    | C027-01-0873/2024
-| Member 8 		      | C027-01-____/2024
+| Ivy Githinji 		    | C027-01-0883/2024
 | Member 9		      | C027-01-____/2024
 | Member 10		      | C027-01-____/2024
 
