@@ -41,7 +41,7 @@ The application is intended for:
 | Paul Oenga          | C027-01-0918/2024
 | Gloria Mburu 		    | C027-01-0873/2024
 | Ivy Githinji 		    | C027-01-0883/2024
-| Member 9		      | C027-01-____/2024
+| Yvonne Patience     | C027-01-0869/2024
 | Member 10		      | C027-01-____/2024
 
 
